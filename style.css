@@ -111,7 +111,7 @@ button:hover {
   background-position: top 60px center;
   display: flex;
   flex-direction: column;
-  background-image: url(/img/back.jpg);
+  background-image: url(img/back.jpg);
 }
 
 #home span {
