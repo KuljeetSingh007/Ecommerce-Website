@@ -253,7 +253,7 @@ button:hover {
 }
 
 #banner {
-  background-image: url(/img/banner/2.jpg);
+  background-image: url(img/banner/2.jpg);
   justify-content: center;
   align-items: flex-start;
   width: 100%;
